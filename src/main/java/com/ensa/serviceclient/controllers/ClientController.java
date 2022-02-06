@@ -1,10 +1,8 @@
 package com.ensa.serviceclient.controllers;
 
-import ch.qos.logback.core.CoreConstants;
 import com.ensa.serviceclient.entities.Beneficiaire;
 import com.ensa.serviceclient.entities.Client;
 import com.ensa.serviceclient.entities.Transfer;
-import com.ensa.serviceclient.repositories.ClientRepo;
 import com.ensa.serviceclient.services.ClientService;
 import com.ensa.serviceclient.utils.Login;
 import lombok.AllArgsConstructor;

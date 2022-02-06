@@ -5,7 +5,6 @@ import com.ensa.serviceclient.repositories.BeneficiaireRepo;
 import com.ensa.serviceclient.repositories.ClientRepo;
 import com.ensa.serviceclient.utils.ClientCompte;
 import com.ensa.serviceclient.utils.Login;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -15,7 +14,6 @@ import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 
 @Service

@@ -1,6 +1,5 @@
 package com.ensa.serviceclient.entities;
 
-import javax.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
